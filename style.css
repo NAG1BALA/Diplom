@@ -1,0 +1,14 @@
+body {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/Montserrat-VariableFont_wght_1_.woff') format('woff');
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
